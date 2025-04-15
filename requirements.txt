@@ -1,0 +1,7 @@
+streamlit
+nltk
+chardet
+PyMuPDF
+google-generativeai
+sumy
+python-dotenv
